@@ -13,7 +13,9 @@
   "sideEffects": false,
   "dependencies": {
     "@bablr/agast-helpers": "^0.5.0",
+    "@bablr/agast-vm": "^0.6.1",
     "@bablr/agast-vm-helpers": "^0.5.0",
+    "@bablr/agast-vm-strategy-passthrough": "^0.1.0",
     "@bablr/coroutine": "0.1.0",
     "@bablr/helpers": "^0.20.0",
     "@bablr/regex-vm": "^0.9.0",
