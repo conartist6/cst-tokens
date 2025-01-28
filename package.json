@@ -15,7 +15,7 @@
     "@bablr/agast-helpers": "^0.5.0",
     "@bablr/agast-vm": "^0.6.1",
     "@bablr/agast-vm-helpers": "^0.5.0",
-    "@bablr/agast-vm-strategy-passthrough": "^0.1.0",
+    "@bablr/agast-vm-strategy-passthrough": "github:bablr-lang/agast-vm-strategy-passthrough#6a2cea0cb1106a1d4aa43bbdcc1793666768a5a6",
     "@bablr/coroutine": "0.1.0",
     "@bablr/helpers": "^0.20.0",
     "@bablr/regex-vm": "^0.9.0",
